@@ -1,0 +1,8 @@
+0|1030|1|covishield|10|confirm
+1|1031|2|bargen20mg|20|dispatch
+2|1032|3|paracetamol|30|pending
+3|1034|4|emolgophine|40|pending
+4|1041|3|paracetamol|20|confirm
+5|1045|3|paracetamol|20|confirm
+6|1048|1|dolo_650mg|20|confirm
+7|1050|1|Dolo650|50|pending

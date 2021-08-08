@@ -1,0 +1,26 @@
+
+Date & Time :Sat Aug 07 12:03:36 2021
+
+Bill Number :1023855
+
+Customer_ID :1
+
+Customer_Name :vijay
+-------------------------------------------------------------
+Medicine name : Aminophylline Quantity : 2 Price : 30 Total Price :60
+-------------------------------------------------------------
+				The total amount with VAT :61
+-------------------------------------------------------------
+
+Date & Time :Sat Aug 07 12:30:06 2021
+
+Bill Number :1023856
+
+Customer_ID :6
+
+Customer_Name :Akash
+-------------------------------------------------------------
+Medicine name : Crocin_100mg Quantity : 4 Price : 35 Total Price :140
+-------------------------------------------------------------
+				The total amount with VAT :144
+-------------------------------------------------------------

@@ -1,0 +1,5 @@
+0|1|vijay|M|9498756321|Hootgalli
+1|13|hemanth|M|63198838569|tank
+2|15|vamshi|M|1325647890|watcth_tower
+3|2|nisha|F|9874563210|rk_nagar
+4|6|Akash|M|9874563210|Kuvempu_nagr
